@@ -1,30 +1,32 @@
-# Hey, I'm Paul-Arthur 👋
+# Paul-Arthur Navaud
 
-I build products fast.
+Full-Stack Java developer based in Toulouse, building reliable products and shipping fast.
 
-Full-stack developer focused on AI-powered tools, automation, and practical software that ships.
+Currently at **i-Run** (European e-commerce platform), working on event-driven systems, multi-country marketing sync, and production-grade backend architecture.
 
-## What I work on
+## What I do
 
-- AI products (agents, copilots, automation)
-- SaaS MVPs with clear business outcomes
-- Developer tooling and growth systems
+I build and maintain production applications in Java/Spring, design event-driven/hexagonal architectures, and ship practical AI-enabled products.
 
-## Stack
+### GitHub Projects
 
-TypeScript • Next.js • Node.js • Python • Docker • Postgres • Supabase • OpenAI/Anthropic
+- [AIDAT](https://github.com/Warllam/aidat) — AI-driven project
+- [Interview Copilot](https://github.com/Warllam/interview-copilot) — job-offer analysis + interview training + LeetCode revision
+- [LauShop Atelier](https://github.com/Warllam/laushop-atelier) — landing page + workshop bookings
+- [VoiceSnap](https://github.com/Warllam/voicesnap) — voice-focused product experiments
+- [AIDAT PoC](https://github.com/Warllam/aidat_poc) — proof of concept iterations
 
-## Current focus
+## Core stack
 
-- Shipping small products with real users
-- AI-native workflows for speed + quality
-- Productized services and recurring revenue systems
+**Backend**: Java, Spring Boot, jOOQ, MySQL, Reactor  
+**Frontend**: TypeScript, React/Nuxt  
+**Infra/Tooling**: Docker, GitLab CI, SonarQube, Postman, Testcontainers
 
-## Elsewhere
+## Links
 
-- X/Twitter: [@warllam](https://x.com/warllam)
-- Discord: `warllam`
+- GitHub: [github.com/Warllam](https://github.com/Warllam)
+- LinkedIn: [linkedin.com/in/paul-arthur-navaud](https://linkedin.com/in/paul-arthur-navaud)
 
 ---
 
-> Build. Measure. Iterate.
+*Build useful things. Keep it simple. Ship.*
