@@ -1,24 +1,35 @@
 # Hey, I'm Paul-Arthur 👋
 
-Full Stack Java developer based in **Toulouse, France**.
+Full Stack Developer based in **Toulouse, France**.
 
-I currently work at [i-Run](https://www.i-run.fr), a multi-country European e-commerce platform for running gear, where I build and maintain backend & frontend services.
+Currently at **[i-Run](https://www.i-run.fr)**  
+Previously at **Airbus Defence & Space**.
 
-Previously, I worked in the **aerospace industry** at **Airbus Defence & Space**.
-
-### What I'm working on
-
-- [AIDAT](https://github.com/Warllam/aidat)
-- [Interview Copilot](https://github.com/Warllam/interview-copilot)
-- [LauShop Atelier](https://github.com/Warllam/laushop-atelier)
-- [VoiceSnap](https://github.com/Warllam/voicesnap)
-- [AIDAT PoC](https://github.com/Warllam/aidat_poc)
+I build practical products, ship fast, and focus on real-world impact.
 
 ---
 
-### Stack & tools
+### What I'm working on
 
-`Java` · `Spring Boot` · `jOOQ` · `MySQL` · `Reactor (Mono/Flux)` · `Vue/Nuxt` · `Docker` · `GitLab CI` · `SonarQube`
+- [AIDAT](https://github.com/Warllam/aidat) — AI-driven product
+- [Interview Copilot](https://github.com/Warllam/interview-copilot) — offer analysis + interview training + LeetCode revision
+- [LauShop Atelier](https://github.com/Warllam/laushop-atelier) — workshop booking landing page
+- [VoiceSnap](https://github.com/Warllam/voicesnap) — voice product experiments
+
+---
+
+### Tech
+
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude CLI](https://img.shields.io/badge/Claude_CLI-111111?style=for-the-badge&logo=anthropic&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge&logo=swift&logoColor=white)
+![Web](https://img.shields.io/badge/Web-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)
 
 ---
 
