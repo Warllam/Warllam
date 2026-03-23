@@ -9,7 +9,7 @@ I build practical products, ship fast, and focus on real-world impact.
 ### What I'm working on
 
 - 🛡️ [LLMask](https://github.com/Warllam/llmask) — Privacy proxy that masks sensitive data before it reaches LLMs
-- 
+
 ---
 
 ### Tech
