@@ -8,11 +8,8 @@ I build practical products, ship fast, and focus on real-world impact.
 
 ### What I'm working on
 
-- 🤖 [AIDAT](https://github.com/Warllam/aidat) — AI-driven product  
-- 🎯 [Interview Copilot](https://github.com/Warllam/interview-copilot) — offer analysis + interview training + LeetCode revision  
-- 🛠️ [LauShop Atelier](https://github.com/Warllam/laushop-atelier) — workshop booking landing page  
-- 🎙️ [VoiceSnap](https://github.com/Warllam/voicesnap) — voice product experiments
-
+- 🛡️ [LLMask](https://github.com/Warllam/llmask) — Privacy proxy that masks sensitive data before it reaches LLMs
+- 
 ---
 
 ### Tech
